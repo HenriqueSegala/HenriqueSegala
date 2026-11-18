@@ -1,26 +1,27 @@
-# SYSTEM ONLINE — Henrique Segala
+# SISTEMA ONLINE — Henrique Segala
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B2447,100:00D9FF&height=220&section=header&text=HENRIQUE%20SEGALA&fontSize=42&fontColor=00E5FF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20FULL%20STACK%20DEVELOPER&descSize=13&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B2447,100:00D9FF&height=220&section=header&text=HENRIQUE%20SEGALA&fontSize=42&fontColor=00E5FF&fontAlignY=38&desc=CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O%20%7C%20DESENVOLVIMENTO%20FULL%20STACK&descSize=13&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Initializing+Developer+Environment...;Welcome+to+my+GitHub+Profile;Computer+Science+Student;Exploring+Full+Stack+Development;Turning+Ideas+Into+Code..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Inicializando+ambiente+de+desenvolvimento...;Bem-vindo+ao+meu+GitHub;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Explorando+o+Desenvolvimento+Full+Stack;Transformando+ideias+em+c%C3%B3digo..." />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&color=00D9FF&labelColor=050816)
-![GitHub stars](https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&color=00D9FF&labelColor=050816)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00D9FF&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
+![Seguidores](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&color=00D9FF&labelColor=050816&label=SEGUIDORES)
+![Estrelas](https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&color=00D9FF&labelColor=050816&label=ESTRELAS)
 
 </div>
 
 ---
 
-## 01 — ABOUT ME
+## 01 — SOBRE MIM
 
 bash
-$ booting developer_profile...
-$ loading personal information...
+$ iniciando_perfil...
+$ carregando_informacoes...
+$ sistema_inicializado_com_sucesso!
 
 
 <img align="right" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
@@ -31,34 +32,34 @@ Tenho formação técnica em Eletromecânica e atualmente estou direcionando meu
 
 Gosto de aprender novas tecnologias, explorar soluções e transformar ideias em projetos.
 
-- 🎓 Ciência da Computação.
+- 🎓 Graduando em Ciência da Computação.
 - 💻 Foco em desenvolvimento Full Stack.
-- 🐍 Aprendendo Python e programação.
+- 🐍 Aprendendo Python e lógica de programação.
 - 🗄️ Estudando SQL e banco de dados.
 - ⚙️ Conhecimentos em Git e GitHub.
-- 🚀 Sempre buscando evoluir profissionalmente.
+- 🚀 Buscando evoluir constantemente na área de tecnologia.
 
-bash
-STATUS: LEARNING
-MINDSET: CONSTANT EVOLUTION
-MISSION: BUILD THE FUTURE
+text
+STATUS: APRENDIZADO CONTÍNUO
+MENTALIDADE: EVOLUÇÃO CONSTANTE
+MISSÃO: CONSTRUIR O FUTURO
 
 
 ---
 
-## 02 — TECH STACK
+## 02 — TECNOLOGIAS
 
 <div align="center">
 
-### Programming Languages & Development
+### Linguagens e desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" />
 
-### Database & Version Control
+### Banco de dados e controle de versão
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark" />
 
-### Tools & Environment
+### Ferramentas e ambiente de desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=vscode,figma,windows,linux&theme=dark" />
 
@@ -66,23 +67,23 @@ MISSION: BUILD THE FUTURE
 
 ---
 
-## 03 — DEVELOPMENT ENVIRONMENT
+## 03 — FERRAMENTAS UTILIZADAS
 
 <div align="center">
 
-| TOOL | PURPOSE |
+| FERRAMENTA | UTILIZAÇÃO |
 |:---:|:---|
-| 💻 VS Code | Code editor |
-| 🐙 GitHub | Version control and repositories |
-| 🔧 Git | Source code management |
-| 🎨 Figma | Interface design and prototyping |
-| 🗄️ SQL | Database management |
+| 💻 VS Code | Editor de código |
+| 🐙 GitHub | Hospedagem de projetos e repositórios |
+| 🔧 Git | Controle de versão |
+| 🎨 Figma | Design e prototipação de interfaces |
+| 🗄️ SQL | Gerenciamento de banco de dados |
 
 </div>
 
 ---
 
-## 04 — FEATURED PROJECTS
+## 04 — PROJETOS EM DESTAQUE
 
 <div align="center">
 
@@ -96,30 +97,32 @@ MISSION: BUILD THE FUTURE
 
 </div>
 
+> Substitua os nomes de exemplo pelos nomes dos seus repositórios.
+
 ---
 
-## 05 — CURRENT OBJECTIVES
+## 05 — OBJETIVOS ATUAIS
 
 text
 ╔════════════════════════════════════════════╗
-║          HENRIQUE'S DEVELOPMENT OS         ║
+║          SISTEMA DE DESENVOLVIMENTO        ║
 ╠════════════════════════════════════════════╣
 ║                                            ║
-║  [RUNNING] Learning Python                 ║
-║  [RUNNING] Studying SQL                    ║
-║  [RUNNING] Improving Git & GitHub          ║
-║  [RUNNING] Developing Full Stack skills    ║
-║  [PENDING] Building real-world projects    ║
-║  [PENDING] Landing a technology internship ║
+║  [EM ANDAMENTO] Aprendendo Python          ║
+║  [EM ANDAMENTO] Estudando SQL              ║
+║  [EM ANDAMENTO] Aprimorando Git e GitHub   ║
+║  [EM ANDAMENTO] Desenvolvimento Full Stack║
+║  [PRÓXIMO] Desenvolver projetos reais      ║
+║  [PRÓXIMO] Conquistar estágio em TI        ║
 ║                                            ║
 ╠════════════════════════════════════════════╣
-║  SYSTEM STATUS: EVOLVING                   ║
+║  STATUS DO SISTEMA: EVOLUINDO              ║
 ╚════════════════════════════════════════════╝
 
 
 ---
 
-## 06 — GITHUB ANALYTICS
+## 06 — ESTATÍSTICAS DO GITHUB
 
 <div align="center">
 
@@ -133,17 +136,17 @@ text
 
 ---
 
-## 07 — CONTRIBUTION ACTIVITY
+## 07 — ATIVIDADE NO GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050816&color=00E5FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050816&color=00E5FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=ATIVIDADE%20DE%20DESENVOLVIMENTO"/>
 
 </div>
 
 ---
 
-## 08 — GITHUB TROPHIES
+## 08 — CONQUISTAS NO GITHUB
 
 <div align="center">
 
@@ -153,7 +156,7 @@ text
 
 ---
 
-## 09 — CONTRIBUTION SNAKE
+## 09 — ANIMAÇÃO DE CONTRIBUIÇÕES
 
 <div align="center">
 
@@ -163,20 +166,20 @@ text
 
 ---
 
-## 10 — CONNECT WITH ME
+## 10 — CONECTE-SE COMIGO
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Entrar_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -187,10 +190,10 @@ text
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0B2447,100:050816&height=120&section=footer"/>
 
-### SYSTEM STATUS: ALWAYS LEARNING
+### STATUS DO SISTEMA: SEMPRE APRENDENDO
 
-*"The future is built one line of code at a time."*
+*"O futuro é construído uma linha de código por vez."*
 
-<sub>Designed & developed by Henrique Segala © 2026</sub>
+<sub>Desenvolvido por Henrique Segala © 2026</sub>
 
 </div>
