@@ -8,9 +8,7 @@
 
 <br/>
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00D9FF&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
-![Seguidores](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&color=00D9FF&labelColor=050816&label=SEGUIDORES)
-![Estrelas](https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&color=00D9FF&labelColor=050816&label=ESTRELAS)
+
 
 </div>
 
