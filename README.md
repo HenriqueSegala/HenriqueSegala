@@ -18,10 +18,6 @@
 
 ## 01 — SOBRE MIM
 
-bash
-$ iniciando_perfil...
-$ carregando_informacoes...
-$ sistema_inicializado_com_sucesso!
 
 
 <img align="right" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
@@ -97,7 +93,7 @@ MISSÃO: CONSTRUIR O FUTURO
 
 </div>
 
-> Substitua os nomes de exemplo pelos nomes dos seus repositórios.
+
 
 ---
 
